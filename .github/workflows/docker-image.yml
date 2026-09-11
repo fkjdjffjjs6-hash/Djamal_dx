@@ -1,4 +1,4 @@
-Entername: Build and Push Docker Image
+name: Build and Push Docker Image
 
 on:
   push:
@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mo7adv/djamel-vmess:latest
+          tags: djamal/djamel-vmess:latest
