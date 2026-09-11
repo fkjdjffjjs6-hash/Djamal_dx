@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jamal/djamel-vmess:latest
+          tags: mo7adv/djamel-vmess:latest
